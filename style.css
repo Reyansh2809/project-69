@@ -1,0 +1,74 @@
+body{
+text-align: center;
+font-family: sans-serif;
+background-color: coral;
+}
+
+
+
+.container{
+background-color:deeppink;    
+}
+
+
+#date{
+font-family: inherit;
+font-size: 12px;
+}
+
+
+
+#marqueeStyle{
+background-color: chocolate;    
+}
+
+img{
+width: 500px;
+height:500px;    
+}
+
+
+#myNavbar{
+ position: fixed;
+top:0;
+z-index: 9999;    
+height:6px;
+color: white;
+background-color:black;
+    
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width:29%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+
+    
